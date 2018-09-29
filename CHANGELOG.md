@@ -5,6 +5,9 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 
 
+## [v0.0.5] - 2018-09-29
+- Abandon the package in favor to rinvex/laravel-cacheable
+
 ## [v0.0.4] - 2018-09-22
 - Update travis php versions
 - Fix CacheableEloquent trait attributes overridability (fix #19)
@@ -44,6 +47,7 @@ This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 ## v0.0.1 - 2017-01-18
 - Tag first release
 
+[v0.0.5]: https://github.com/rinvex/cacheable/compare/v0.0.4...v0.0.5
 [v0.0.4]: https://github.com/rinvex/cacheable/compare/v0.0.3...v0.0.4
 [v0.0.3]: https://github.com/rinvex/cacheable/compare/v0.0.2...v0.0.3
 [v0.0.2]: https://github.com/rinvex/cacheable/compare/v0.0.1...v0.0.2

@@ -2,6 +2,8 @@
 
 **Rinvex Cacheable** is a granular, intuitive, and fluent caching system for eloquent models. Simple, but yet powerful, plug-n-play with no hassle.
 
+⚠️ This package is **abandoned** and no longer maintained. The author suggests using the **[rinvex/laravel-cacheable](https://github.com/rinvex/laravel-cacheable)** package instead. ⚠️
+
 [![Packagist](https://img.shields.io/packagist/v/rinvex/cacheable.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rinvex/cacheable)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/rinvex/cacheable.svg?label=Scrutinizer&style=flat-square)](https://scrutinizer-ci.com/g/rinvex/cacheable/)
 [![Code Climate](https://img.shields.io/codeclimate/github/rinvex/cacheable.svg?label=CodeClimate&style=flat-square)](https://codeclimate.com/github/rinvex/cacheable)

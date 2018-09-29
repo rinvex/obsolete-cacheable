@@ -70,6 +70,7 @@
             "dev-master": "1.0-dev"
         }
     },
+    "abandoned": "rinvex/laravel-cacheable",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
